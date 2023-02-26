@@ -5,7 +5,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Interactive Resume</title>
-	<link rel="stylesheet" href="styles/iresume_style.css?v=6">
+	<link rel="stylesheet" href="styles\iresume_style.css?v=6">
 </head>
 <body>
 	<div class="page">
